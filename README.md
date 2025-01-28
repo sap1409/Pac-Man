@@ -1,4 +1,4 @@
-# Pac-Man Game - Assignment 3
+# Pac-Man Game
 
 ## Note
 
